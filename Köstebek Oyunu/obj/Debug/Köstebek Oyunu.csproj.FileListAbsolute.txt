@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\bin\Debug\Köstebek Oyunu.exe.config
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\bin\Debug\Köstebek Oyunu.exe
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\bin\Debug\Köstebek Oyunu.pdb
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek_Oyunu.frmKostebekOyunu.resources
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek_Oyunu.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.exe
+C:\Users\Fatih\Desktop\Çalışmalarım\Köstebek Oyunu\Köstebek Oyunu\obj\Debug\Köstebek Oyunu.pdb
